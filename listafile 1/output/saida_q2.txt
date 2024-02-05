@@ -1,0 +1,3 @@
+Menor elemento: 1 
+ Menor elemento: 19 
+ Media: 7.900000
