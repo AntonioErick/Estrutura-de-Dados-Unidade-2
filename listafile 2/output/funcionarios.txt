@@ -1,0 +1,3 @@
+Nome: jean	Id: 23434	Salario: 2.5
+Nome: foguete	Id: 42423	Salario: 3.0
+Nome: kue	Id: 34234234	Salario: 0.0

@@ -1,0 +1,3 @@
+Nome: caja	 Preço: 6.0
+Nome: melao	 Preço: 12.5
+Nome: maracuja	 Preço: 3.2

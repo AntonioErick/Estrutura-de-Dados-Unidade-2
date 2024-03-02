@@ -1,0 +1,3 @@
+Nome: Josu‚	 Nota: 2.5
+Nome: Matheus	 Nota: 7.8
+Nome: Lucas	 Nota: 10.0
